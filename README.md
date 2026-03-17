@@ -1,8 +1,9 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
 # Date:
-# Register no. 25013957
-# Aim: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
+# Register no. 212223060091
+# Aim:
+Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
 # AI Tools Required:
  .ChatGPT 
@@ -251,7 +252,9 @@ if __name__ == "__main__":
 
 
 # Conclusion:
+
 This experiment demonstrates that persona-based prompting combined with Python automation enables efficient interaction with multiple AI tools. The results are generated and compared with actionable insights.
 
 
-# Result: The corresponding Prompt is executed successfully.
+# Result: 
+The corresponding Prompt is executed successfully.
